@@ -1,0 +1,2 @@
+# ikkinchi
+education
